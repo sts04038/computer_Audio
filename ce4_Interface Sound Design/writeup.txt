@@ -1,0 +1,16 @@
+FreeSound Source URL: 
+https://freesound.org/people/Snapper4298/sounds/178186/
+https://freesound.org/people/EminYILDIRIM/sounds/536108/
+https://freesound.org/people/old_waveplay/sounds/399933/
+https://freesound.org/people/Wdomino/sounds/508575/
+https://freesound.org/people/TasmanianPower/sounds/162493/
+https://freesound.org/people/DeVern/sounds/348275/
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+For ce3, I have to add five functional button with different click sound for each.
+During this class exercise it took a while for me to understand and apply functions for each button.
+Also working through this assignment I became more flexible for creating UI.

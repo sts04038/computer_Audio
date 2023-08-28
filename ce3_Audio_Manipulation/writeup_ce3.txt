@@ -1,0 +1,8 @@
+For ce3, I have use two voice, the first one is for telling customers to wait for a while, 
+and the second one was recorded using my voice with korean language. It means that "Thank you for calling,
+if you need a korean assistance press 1".
+I have normalized the both audio recordings.
+
+ducking was succesful with using biquad filter
+
+Since it's my first time using processing4. There are lots of unfamilar object for me. However, I'm working hard to catchup!
